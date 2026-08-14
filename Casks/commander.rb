@@ -1,6 +1,6 @@
 cask "commander" do
   version "0.26.3"
-  sha256 "ff3c1a7f17100457d96759e1913769ba59dd58e0e24284eb2391a41016c8016a"
+  sha256 "36bb391fcbc7f22fe850db76013e6662245f4633d9d224de0c27ec59712e5434"
 
   url "https://releases.cyshel.com/commander/Commander-#{version}-universal.dmg"
   name "Commander"
